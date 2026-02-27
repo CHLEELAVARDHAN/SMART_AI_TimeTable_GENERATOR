@@ -1,0 +1,20 @@
+# Node.js Dependencies (Equivalent to requirements.txt)
+# Install these using: npm install
+
+react
+react-dom
+typescript
+vite
+tailwindcss
+lucide-react
+motion
+react-hook-form
+jspdf
+jspdf-autotable
+docx
+file-saver
+clsx
+tailwind-merge
+@google/genai
+express
+better-sqlite3

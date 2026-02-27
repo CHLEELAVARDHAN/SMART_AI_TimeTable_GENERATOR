@@ -1,0 +1,5 @@
+{
+  "name": "Smart Faculty Timetable Generator",
+  "description": "An intelligent system for generating conflict-free academic timetables with lab support, faculty clash prevention, and professional export options.",
+  "requestFramePermissions": []
+}
